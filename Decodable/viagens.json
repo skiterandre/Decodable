@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Porto de Galinhas",
+        "preco": "1800,00",
+        "data_legal": "10/10/2021"
+    },
+    {
+        "id": 2,
+        "nome": "Maragogi",
+        "preco": "1400,00",
+        "data_legal": "10/10/2021"
+    },
+    {
+        "id": 3,
+        "nome": "Salvador",
+        "preco": "1000,00",
+        "data_legal": "10/10/2021"
+    }
+]
